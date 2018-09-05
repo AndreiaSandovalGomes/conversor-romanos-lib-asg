@@ -1,0 +1,28 @@
+{
+  "name": "conversor-romanos-lib-asg",
+  "version": "1.0.0",
+  "description": "Conversor romanos em numeros e vice-versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "romanToInto()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiaSandovalGomes/conversor-romanos-lib-asg.git"
+  },
+  "author": "Andreia Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreiaSandovalGomes/conversor-romanos-lib-asg/issues"
+  },
+  "homepage": "https://github.com/AndreiaSandovalGomes/conversor-romanos-lib-asg#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1",
+    "wallaby": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
